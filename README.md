@@ -1,16 +1,4 @@
-<!-- 👋 Hi there, I’m Jason Staker -->
-<p align="center">
-  <a href="https://github.com/jasonstaker">
-    <img src="https://github-readme-stats.vercel.app/api?username=jasonstaker&show_icons=true&theme=radical" alt="Jason's GitHub Stats"/>
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=jasonstaker&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonstaker&theme=radical" alt="Streak Stats"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/jason-staker-53b8a9280/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational"/></a>
-</p>
+# Jason Staker - @jasonstaker
 
 ## 🚀 About Me
 - 🎓 **CS Student @ UBC** (GPA: 4.0/4.0)  
@@ -23,7 +11,20 @@
 - **Languages:** C++, Python, Java, HTML/CSS  
 - **Tools:** Git, Postman, Chrome DevTools, VS Code  
 - **Concepts:** OOP, OOD, Data Structures & Algorithms, API Testing, Debugging  
-- **Academics:** Multivariable Calculus, Linear Algebra  
+- **Academics:** Multivariable Calculus, Linear Algebra
+
+<p align="center">
+  <a href="https://github.com/jasonstaker">
+    <img src="https://github-readme-stats.vercel.app/api?username=jasonstaker&show_icons=true&theme=radical" alt="Jason's GitHub Stats"/>
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=jasonstaker&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonstaker&theme=radical" alt="Streak Stats"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/jason-staker-53b8a9280/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational"/></a>
+</p>
 
 ## 📂 Featured Projects
 | Project | Tech Stack | Highlights |
