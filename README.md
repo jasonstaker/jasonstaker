@@ -1,6 +1,6 @@
 # Jason Staker · @jasonstaker
 
-## 🚀 About Me
+## About Me
 - Second‑year CS student at UBC (GPA 4.0/4.0)  
 - Passionate about rendering, physics simulation and systems programming  
 - Hands‑on experience in C++ and Python; built a Schwarzschild ray tracer and a 2D physics engine  
