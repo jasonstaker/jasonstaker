@@ -1,7 +1,5 @@
 # Jason Staker · @jasonstaker
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonstaker)](https://github.com/jasonstaker/github-readme-stats)
-
 ## About Me
 - Second‑year CS student at UBC (GPA 4.0/4.0)  
 - Passionate about rendering, physics simulation and systems programming  
