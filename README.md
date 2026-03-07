@@ -22,5 +22,5 @@
 | Java Swing Calendar App            | Java, Swing, JSON persistence                | [github.com/jasonstaker/student-calendar](https://github.com/jasonstaker/student-calendar)               |
 
 ## Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/jason-staker-53b8a9280/)  
+- [LinkedIn](https://www.linkedin.com/in/jstaker/)  
 - jason.staker@yahoo.com  
