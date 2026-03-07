@@ -10,8 +10,8 @@
 
 ## Skills
 - **Languages:** C++, Python, Java, HTML/CSS  
-- **Tools & Frameworks:** Git, CMake, OpenMP, SFML, GoogleTest, PyQt5, Selenium, Pandas  
-- **Concepts:** Multithreading, numerical methods, data structures & algorithms, API testing, OOP  
+- **Tools & Frameworks:** ROS2, Docker, Git, CMake, OpenCV, OpenMP, SFML, GoogleTest, PyQt5, Selenium, Pandas  
+- **Concepts:** Linux CLI, Multithreading, Numerical Methods, Data Structures & Algorithms, Bash, API testing, OOP  
 
 ## Featured Projects
 | Project                            | Tech Stack                                   | Repo                                                                 |
