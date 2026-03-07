@@ -20,6 +20,8 @@
 | 2D Physics Engine & Renderer       | C++17, SFML, JSON, Quadtree                  | [github.com/jasonstaker/2d-physics-demo](https://github.com/jasonstaker/2d-physics-demo)                 |
 | RFP Web Scraper                    | Python, Selenium, Requests, Pandas, PyQt5    | [github.com/jasonstaker/rfp-scraper](https://github.com/jasonstaker/rfp-scraper)                         |
 | Java Swing Calendar App            | Java, Swing, JSON persistence                | [github.com/jasonstaker/student-calendar](https://github.com/jasonstaker/student-calendar)               |
+| Personal Website                   | React, Vite, Tailwind CSS                    | [github.com/jasonstaker/student-calendar](https://github.com/jasonstaker/personal-website)               |
+
 
 ## Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/jstaker/)  
