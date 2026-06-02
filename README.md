@@ -1,28 +1,25 @@
 # Jason Staker · @jasonstaker
 
 ## About Me
-- Second‑year CS student at UBC (GPA 4.0/4.0)  
-- Passionate about rendering, physics simulation and systems programming  
-- Hands‑on experience in C++ and Python; built a Schwarzschild ray tracer and a 2D physics engine  
-- QA and automation background with Postman, Selenium and Chrome DevTools  
-- Collaborative problem‑solver with clear documentation focus  
-- Mountain biking enthusiast and nature lover  
+- CS student at UBC (GPA 4.0/4.0), US citizen
+- I write autonomy software that runs on real drone hardware, not just in simulation — on UBC's UAS team I build the ROS2 mission nodes that fly a competition UAV
+- The rest of what I build comes from wanting to understand physical systems from the math up: a black-hole ray tracer, a 2D physics engine, and (this summer) a terrain-aware path planner
+- Licensed drone pilot — Transport Canada RPAS Advanced
+- Mountain biking enthusiast and nature lover
 
 ## Skills
-- **Languages:** C++, Python, Java, HTML/CSS  
-- **Tools & Frameworks:** ROS2, Docker, Git, CMake, OpenCV, OpenMP, SFML, GoogleTest, PyQt5, Selenium, Pandas  
-- **Concepts:** Linux CLI, Multithreading, Numerical Methods, Data Structures & Algorithms, Bash, API testing, OOP  
+- **Languages:** C++, Python, Java, HTML/CSS
+- **Robotics & Systems:** ROS2, MAVROS, Docker, Linux, CMake, multithreading, numerical methods
+- **Tools & Libraries:** Git, OpenGL, OpenMP, SFML, OpenCV, GoogleTest, PyQt5, Pandas
 
 ## Featured Projects
-| Project                            | Tech Stack                                   | Repo                                                                 |
-| ---------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- |
-| Schwarzschild Ray Tracer           | C++, OpenMP, CMake, GoogleTest, stb_image    | [github.com/jasonstaker/schwarzschild-blackhole-renderer](https://github.com/jasonstaker/schwarzschild-blackhole-renderer) |
-| 2D Physics Engine & Renderer       | C++17, SFML, JSON, Quadtree                  | [github.com/jasonstaker/2d-physics-demo](https://github.com/jasonstaker/2d-physics-demo)                 |
-| RFP Web Scraper                    | Python, Selenium, Requests, Pandas, PyQt5    | [github.com/jasonstaker/rfp-scraper](https://github.com/jasonstaker/rfp-scraper)                         |
-| Java Swing Calendar App            | Java, Swing, JSON persistence                | [github.com/jasonstaker/student-calendar](https://github.com/jasonstaker/student-calendar)               |
-| Personal Website                   | React, Vite, Tailwind CSS                    | [github.com/jasonstaker/personal-website](https://github.com/jasonstaker/personal-website)               |
 
+| Project | Tech Stack | Repo |
+| --- | --- | --- |
+| Schwarzschild Ray Tracer | C++, OpenMP, CMake, GoogleTest | [schwarzschild-blackhole-renderer](https://github.com/jasonstaker/schwarzschild-blackhole-renderer) |
+| 2D Physics Engine & Renderer | C++17, SFML, JSON, quadtree | [2d-physics-demo](https://github.com/jasonstaker/2d-physics-demo) |
+| Personal Website | React, Vite, Tailwind CSS | [personal-website](https://github.com/jasonstaker/personal-website) |
 
-## Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/jstaker/)  
-- jason.staker@yahoo.com  
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/jstaker/)
+- jason.staker@yahoo.com
