@@ -20,6 +20,11 @@
 | 2D Physics Engine & Renderer | C++17, SFML, JSON, quadtree | [2d-physics-demo](https://github.com/jasonstaker/2d-physics-demo) |
 | Personal Website | React, Vite, Tailwind CSS | [personal-website](https://github.com/jasonstaker/personal-website) |
 
+## Team / UAS Work
+Contributor on UBC UAS's drone software (the `@ubcuas` org) — ROS2/C++ on real flight hardware.
+- **[Hawkeye-OS](https://github.com/ubcuas/Hawkeye-OS)** — current ROS2 perception/mission stack (RealSense, VSLAM, Jetson, Docker). [My commits »](https://github.com/ubcuas/Hawkeye-OS/commits?author=jasonstaker)
+- **[Camera-Feed-2023](https://github.com/ubcuas/Camera-Feed-2023)** — C++ camera pipeline; I fixed the ArenaSDK/MAVLink build chain and a `--fake`-mode segfault to enable hardware-free Docker builds ([PR #33](https://github.com/ubcuas/Camera-Feed-2023/pull/33), merged).
+
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jstaker/)
 - jason.staker@yahoo.com
