@@ -3,7 +3,7 @@
 ## About Me
 - CS student at UBC (GPA 4.0/4.0), US citizen
 - I write autonomy software that runs on real drone hardware, not just in simulation — on UBC's UAS team I build the ROS2 mission nodes that fly a competition UAV
-- The rest of what I build comes from wanting to understand physical systems from the math up: a black-hole ray tracer, a 2D physics engine, and (this summer) a terrain-aware path planner
+- The rest of what I build comes from wanting to understand physical systems from the math up: a black-hole ray tracer, a 2D physics engine, and (this summer) a 6-DOF Rocket Simulator
 - Licensed drone pilot — Transport Canada RPAS Advanced
 - Mountain biking enthusiast and nature lover
 
