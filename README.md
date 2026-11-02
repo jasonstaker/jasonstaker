@@ -4,7 +4,7 @@ Computer science student at UBC. I write C++ that models physical systems from t
 
 **Projects**
 - [rocket-sim](https://github.com/jasonstaker/rocket-sim): C++17 rocket flight simulator, in progress. Its RK4 integrator is verified against a closed-form solution, and its atmosphere model matches published 1976 data.
-- [schwarzschild-blackhole-renderer](https://github.com/jasonstaker/schwarzschild-blackhole-renderer): renders a black hole by integrating null geodesics per ray in C++17, ~8x faster with OpenMP.
+- [schwarzschild-blackhole-renderer](https://github.com/jasonstaker/schwarzschild-blackhole-renderer): renders a black hole by integrating null geodesics per ray in C++17, multithreaded with OpenMP.
 - [2d-physics-demo](https://github.com/jasonstaker/2d-physics-demo): C++17/SFML rigid-body engine with a quadtree broad phase that handles ~1000 entities at 60 FPS.
 
 **Team work** (team-owned code, not public here)
