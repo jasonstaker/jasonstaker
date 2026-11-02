@@ -1,31 +1,14 @@
-# Jason Staker · @jasonstaker
+# Jason Staker
 
-## About Me
-- CS student at UBC (GPA 4.0/4.0), US citizen
-- I write autonomy software that runs on real drone hardware, not just in simulation — on UBC's UAS team I build the ROS2 mission nodes that fly a competition UAV
-- The rest of what I build comes from wanting to understand physical systems from the math up: a black-hole ray tracer, a 2D physics engine, and a rocket flight simulator
-- Licensed drone pilot — Transport Canada RPAS Advanced
-- Mountain biking enthusiast and nature lover
+Computer science student at UBC. I write C++ that models physical systems from the math up, and onboard autonomy software for a student drone team.
 
-## Skills
-- **Languages:** C++, Python, Java, HTML/CSS
-- **Robotics & Systems:** ROS2, MAVROS, Docker, Linux, CMake, multithreading, numerical methods
-- **Tools & Libraries:** Git, Eigen, OpenMP, SFML, OpenCV, GoogleTest, PyQt5, Pandas
+**Projects**
+- [rocket-sim](https://github.com/jasonstaker/rocket-sim): C++17 rocket flight simulator, in progress. Its RK4 integrator is verified against a closed-form solution, and its atmosphere model matches published 1976 data.
+- [schwarzschild-blackhole-renderer](https://github.com/jasonstaker/schwarzschild-blackhole-renderer): renders a black hole by integrating null geodesics per ray in C++17, ~8x faster with OpenMP.
+- [2d-physics-demo](https://github.com/jasonstaker/2d-physics-demo): C++17/SFML rigid-body engine with a quadtree broad phase that handles ~1000 entities at 60 FPS.
 
-## Team / UAS Work
-Contributor on UBC UAS's drone software (the `@ubcuas` org) — ROS2/C++ on real flight hardware.
-- **[Hawkeye-OS](https://github.com/ubcuas/Hawkeye-OS)** — current ROS2 perception/mission stack (RealSense, VSLAM, Jetson, Docker). [My commits »](https://github.com/ubcuas/Hawkeye-OS/commits?author=jasonstaker)
-- **[Camera-Feed-2023](https://github.com/ubcuas/Camera-Feed-2023)** — C++ camera pipeline; I fixed the ArenaSDK/MAVLink build chain and a `--fake`-mode segfault to enable hardware-free Docker builds ([PR #33](https://github.com/ubcuas/Camera-Feed-2023/pull/33), merged).
+**Team work** (team-owned code, not public here)
+- UBC Uncrewed Aircraft Systems: wrote the ROS 2 mission node that turns detection offsets into MAVROS setpoints. It ran on the drone's Jetson Nano at AEAC 2026.
+- Currently working on the autonomy subteam, working on the VSLAM for our competition drone.
 
-## Featured Projects
-
-| Project | Tech Stack | Repo |
-| --- | --- | --- |
-| Rocket Flight Simulator | C++17, Eigen, CMake, GoogleTest | [rocket-sim](https://github.com/jasonstaker/rocket-sim) |
-| Schwarzschild Ray Tracer | C++, OpenMP, CMake, GoogleTest | [schwarzschild-blackhole-renderer](https://github.com/jasonstaker/schwarzschild-blackhole-renderer) |
-| 2D Physics Engine & Renderer | C++17, SFML, JSON, quadtree | [2d-physics-demo](https://github.com/jasonstaker/2d-physics-demo) |
-| Personal Website | React, Vite, Tailwind CSS | [personal-website](https://github.com/jasonstaker/personal-website) |
-
-## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/jstaker/)
-- jason.staker@yahoo.com
+Transport Canada Advanced RPAS certificate · [jasonstaker.dev](https://jasonstaker.dev) · [LinkedIn](https://www.linkedin.com/in/jstaker)
